@@ -1,0 +1,23 @@
+{
+  "name": "cloudflare-api",
+  "version": "1.0.0",
+  "description": "a library to interact with https://www.cloudflare.com/docs/client-api.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x4139/cloudflare-api.git"
+  },
+  "keywords": [
+    "cloudflare",
+    "api"
+  ],
+  "author": "Vali Malinoiu 0x4139@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x4139/cloudflare-api/issues"
+  },
+  "homepage": "https://github.com/0x4139/cloudflare-api#readme"
+}
